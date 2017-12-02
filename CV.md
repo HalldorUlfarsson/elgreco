@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bio
+title: CV
 sidebar_link: true
 ---
 
