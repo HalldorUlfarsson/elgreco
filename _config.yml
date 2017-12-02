@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Halldór Úlfarsson
 tagline:          'a greek halldór'
-description:      # tómt?
+description:      tuðse
 url:              # https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
