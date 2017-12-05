@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bio
+title: BIO
 sidebar_link: true
 ---
 

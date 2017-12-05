@@ -1,7 +1,6 @@
-ATH. Eyddi fyrstu línunni af frontmatter til að escluda þetta úr category í sidebar...
-
+---
 layout: category
-title: Edge Case
+title: Projects
 ---
 
 Sample category page. You need to create a page for each category.
