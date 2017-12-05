@@ -3,13 +3,10 @@ layout: page
 title: BIO
 sidebar_link: true
 ---
+Halldór Úlfarsson (icelandic, b.1977) is an artist and designer pursuing a PhD in music (on musical instrument innovation) at the Department of Music, University of Sussex, United Kingdom as of fall 2017.
 
-Stutt bio...
+Halldór´s artistic practice is focused on his project the [halldorophone](halldorophone.info) an electro acoustic string instrument he has been developing for over a decade. The work consists of a continuing development of the design of the instrument and instigating collaborations with artists and institutions on it's use. A common narrative thread in these works is a contemplation of the identity of a new musical instrument aspiring to be part of the canon of accepted musical instruments.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+Halldór vas previously employed at the Design Department at the Iceland Academy of Art Design Department as adjunct of Product Design and workshop technician for the department. He received his basic training at the Academy of Fine Arts in Helsinki, Department of Time and Space. He holds an MA from the same department and a further MA from the University of Art and Design Helsinki (then TAIK, currently Aalto) in Applied Art and Design.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Halldór speaks Finnish fluently and lives in Athens, Greece when he is not in the U.K.

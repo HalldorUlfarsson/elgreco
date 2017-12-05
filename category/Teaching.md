@@ -3,5 +3,7 @@ layout: category
 title: Teaching
 ---
 
-Timbre
+University of Brighton
+ICLI
+Timbre as material
 Rhino
