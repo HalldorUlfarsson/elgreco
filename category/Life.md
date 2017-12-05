@@ -10,6 +10,15 @@ specify it with the `category` attribute in the front matter.
 ```md
 ---
 layout: category
+title: My Category
+---
+```
+
+Or ...
+
+```md
+---
+layout: category
 title: Fancy Title
 category: My Category
 ---
