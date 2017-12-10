@@ -24,7 +24,7 @@ Projects:
 Recipient of the Chancellors International Research Scholarship (CIRS) to pursue a PhD at the University of Sussex.
 
 2016  
-Halldorophone “portrait” concert at Tectonics festival featureing older works for halldorophone and a new work by Hlynur Vilmarsson for mechanically activated halldorophone.
+Halldorophone “portrait” concert at Tectonics festival featuring older works for halldorophone and a new work by Hlynur Vilmarsson for mechanically activated halldorophone.
 
 Two week residency at the Emutelab, University of Sussex halldorophone inspired cello modifications for researchers Alice Eldridge and Chris Kiefer (ongoing).
 
