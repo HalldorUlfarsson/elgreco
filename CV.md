@@ -5,28 +5,28 @@ sidebar_link: true
 ---
 Education:
 
-17 -
+17 -  
 PhD at the University of Sussex, Department of Music under the supervision of Thor Magnusson and Chris Kiefer.
-05 - 08
+05 - 08  
 MFA studies at the department of Applied art and design at The University of Art and Design Helsinki.
 (Formerly TAIK, currently Aalto)
-05 - 06
+05 - 06  
 MFA studies at The Finnish Academy of Fine Arts, Department of Time and Space.
-01 - 05
+01 - 05  
 BFA studies at The Finnish Academy of Fine Arts, Department of Time and Space.
 
 
-2017
+2017  
 Recipient of the Chancellors International Research Scholarship (CIRS) to pursue a PhD at the University of Sussex.
 
-2016
+2016  
 Halldorophone “portrait” concert at Tectonics festival including older works and a new work by Hlynur Vilmarsson for mechanically activated halldorophone.
 
 Two week residency at the University of Sussex modifying cellos for researchers Alice Eldridge and Chris Kiefer inspired by halldorophone (ongoing)
 
 Workshop on composing for halldorophone at ICLI 2016 conference.
 
-2015
+2015  
 Residency at Loviisa Artist Studio residency program in Finland.
 
 Masterclass at the Music Technology program at the University of Sussex. Halldorophone presented at the CHASE phd consortium.
@@ -35,8 +35,7 @@ Made part time adjunct of product design at the Deptartment of Architecture and 
 
 An hour long audiovisual piece with live music and audience participation composed and performed with Áki Ásgeirsson at Mengi, Reykjavík. Based on our sailing expedition in Breiðafjörður 2012, has the authors grappling with big questions such as: “Does culture require society”.
 
-2014
-
+2014  
 “Composition for halldorophone & DIMI-A” video produced in collaboration with the Sibelius Museum in Turku (FI) and Helsinki University Electronic Music Studio as second part of a three part series on the theme: “halldorophone with with famous electronic instrument”. Collaboration with composer Johan Svensson supported by KKN. The piece is premiered (live) at the Sibelius Museum in Turku.
 
 
@@ -131,29 +130,27 @@ Board member of Äänen Lumo.
 Early halldorophone study exhibited at Kalevala museum in Juminkehko Finland.
 Become member of Artist run finnish video-art distribution center AV-Arkki.
 Kesko stipend. Awarded one graduating student from each department of the Academy.
-Composition for Seagull and Halldorophone performed at Musica Nova festival Helsinki. with composer Tim Page.
-Employed by Fung Collaboratives for the production of the Snow Show in Sestriere Italy (held in conjunction with the Winter Olympics 2006 as a part of the "Cultural Olympics").
+Composition for Seagull and halldorophone performed at Musica Nova festival Helsinki. with composer Tim Page.
 Polyphonia. Group exhibition, Gallery Ranktakasarmi, Helsinki. Performance "Werewolves" with Tero Nurminen.
 
-2005 
-Nýhil international poetry festival, Reykjavík, Iceland. "Hermit's lament" performance.
+2005
+"Hermit's lament" performed at Nýhil international poetry festival, Reykjavík, Iceland.
 BAF festival, Kaapelitehdas Helsinki. Audiovisual composition "HNARTHABLOOD" performed live.
-The Finnish Cultural Foundation (SKR). Grant to develope Halldorophones.
+Awarded a grant from the Finnish Cultural Foundation (SKR) to develope halldorophones.
 Mansedans, new-music festival, Tampere. Performance "Hermits' Lament".
-Assistent builder to Tea Mäkipää installing the sculpture "1:1" in Germany, Austria and Japan.
+Assistent to Tea Mäkipää working on her large scale installations in Germany, Austria and Japan.
 Solo exhibition "Breaths & Thoughts", Kuvataideakatemia Gallery, Helsinki.
 Composition for Seagull and Halldorophone performed at Korvat Auki festival Helsinki.
 
-04 - 	 
+2004
 Group exhibition at Experimental Sound Gallery, Pushkinskaya 10. St Petersburg, Russia.
-Snow Show, Rovaniemi Finland, Joint project of Fung Collaboratives (NY) and Rovaniemi / Kemi artmuseums. First prize winner of international student competition for art. The exhibited work was developed with student architect competition winner Pernille Louise Klausen. - catalog available.
-Tampere Biennale, new-music festival. Halldorophone performance.
+Develop a pavillion with architect Pernille Louise Klausen as student participants of the Snow Show in Rovaniemi Finland a joint project of Fung Collaboratives (NY) and the Rovaniemi and Kemi artmuseums.
+Tampere Biennale, new-music festival. halldorophone performance.
 Famul - Stuart International Exhibition of Students of European Art Schools, Slovenia. Touring exhibition in Slovenia.
-Akademie Schloss Solitude Summer Festival, Stuttgart Germany. Halldorophone concert in a tree.
-Halldorophone #3 commissioned by icelandic pop-band múm.
-Halldorophone performance at  Äänen Lumo.
+Akademie Schloss Solitude Summer Festival, halldorophone concert.
+Icelandic pop-band múm commissions a halldorophone.
 
-03 -  	 
+2003	 
 Performance with Hallvardur Asgeirsson and others at the Reykjavik Art Museum.
 Hondo scandinavian tour (Halldorophone performances) - Gallery / residency Skaftfell Seyðisfirði, Iceland -  The Nordic House in Torshavn, Faeroe Islands -  Isotop Atelier and Showroom in Bergen, Norway.
 "What goes around..." Performed at Ung Nordisk Musik (new music festival) in Oslo. Collaboration with Tim Page - Catalog available.
@@ -163,4 +160,3 @@ Collaboration with MoonTV (local tv-station in Helsinki)- "Tarkkailupartio".
 Performance with Timo Vaittinen at Gallerí ID:I Stockholm
 Performance at Gallery La Bás (Helsinki) with Feedblaster Infinity.
 Video installation to Timothy Page's composition "What goes around..." at  Korvat Auki festival at the Sibelius Academy in Helsinki
-Kaisaniemi Metrostation, installation "Nothing"
