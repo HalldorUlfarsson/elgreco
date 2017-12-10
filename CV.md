@@ -49,7 +49,7 @@ Experimental clarinet barrel project developed with students of composition at t
 
 
 2013  
-Residency at EMS (http://elektronmusikstudion.se) in Stockholm, Sweden.
+Residency at EMS (Elektronmusik Studion) Stockholm, Sweden.
 
 Preview screening version of “Duet for EMS and halldorophone” premiered at Tectonics festival, Reykjavík.
 
@@ -101,13 +101,13 @@ Founding member of LornaLAB a forum for the intersection of art, technology and 
 
 Mansedans festival Tampere, Finland. "Installation for unknown composer".  
 
-ISEA 2010 Ruhr, international Symposium for Electronic Art (http://www.isea2010ruhr.org/).  
+ISEA 2010 Ruhr, international Symposium for Electronic Art.  
 
-Residency at NKD, Norway (http://www.nkdale.no/).  
+Residency at NKD, Norway.  
 
-To the Tool, exhibition at Halle14, Leipzig. (http://www.halle14.org/).  
+To the Tool, exhibition at Halle14, Leipzig.  
 
-Lumen collaboration with Adapter Ensamble at Reykjavík Artfestival (http://www.listahatid.is/).  
+Lumen collaboration with Adapter Ensamble at Reykjavík Artfestival.  
 
 Panelist on the future of new music in Iceland, organized by Reykjavík Artfestival, Icelandic national radio.  
 
@@ -124,9 +124,9 @@ Sommerkamp+Workstation, Re:discovering sound an Instrument-building workshop at 
 
 "Almost nothing" installation at Sequences art festival, Reykjavík, Iceland.  
 
-Collaboration with Adapter Ensamble (http://www.ensemble-adapter.de/)- Project Lumen, Schloss Bröllin (http://www.broellin.de/).  
+Lumen. Collaboration with Adapter Ensamble developed at Schloss Bröllin, Germany.  
 
-Project grant for "Composition for Halldorophone#5" from The Danish Arts Council- DVDs edition of 1000.
+Project grant for "Composition for Halldorophone#5" from The Danish Arts Council.
 
 
 2008  
@@ -161,7 +161,7 @@ Teaching "Visual music" workshop at Finnish Academy of Fine Arts.
 Atlantis makes the front cover of the Finnish Architectural Review.
 
 2007  
-Audiovisual piece developed and performed with Ensemble Adapter (http://www.ensemble-adapter.de).  
+Audiovisual piece developed and performed with Ensemble Adapter.  
 
 Sequences Real-time Art Festival, Reykjavik.  
 
@@ -223,15 +223,15 @@ Icelandic pop-band múm commissions a halldorophone.
 2003  
 Performance with Hallvardur Asgeirsson and others at the Reykjavik Art Museum.  
 
-Hondo scandinavian tour (Halldorophone performances) - Gallery / residency Skaftfell Seyðisfirði, Iceland -  The Nordic House in Torshavn, Faeroe Islands -  Isotop Atelier and Showroom in Bergen, Norway.  
+Hondo scandinavian tour (Halldorophone performances): Skaftfell Seyðisfirði, Iceland.  The Nordic House in Torshavn, Faroe Islands.  Isotop Atelier and Showroom in Bergen, Norway.  
 
 "What goes around..." Audiovisual composition performed at Ung Nordisk Musik (new music festival) in Oslo. Collaboration with Tim Page.
 
 2002  
-Collaboration with MoonTV (local tv-station in Helsinki)- "Tarkkailupartio".  
+"Tarkkailupartio" Collaboration with MoonTV (local tv-station in Helsinki).  
 
 Performance with Timo Vaittinen at Gallerí ID:I Stockholm  
 
 Performance at Gallery La Bás (Helsinki) with Feedblaster Infinity.  
 
-Video installation to Timothy Page's composition "What goes around..." at  Korvat Auki festival at the Sibelius Academy in Helsinki
+Video installation to Timothy Page's composition "What goes around..." at Korvat Auki festival at the Sibelius Academy in Helsinki
