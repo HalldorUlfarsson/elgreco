@@ -3,7 +3,7 @@ layout: page
 title: CV
 sidebar_link: true
 ---
-Education:
+**Education:**
 
 17 -  
 PhD at the University of Sussex, Department of Music under the supervision of Thor Magnusson and Chris Kiefer.  
@@ -17,8 +17,7 @@ MFA studies at The Finnish Academy of Fine Arts, Department of Time and Space.
 01 - 05  
 BFA studies at The Finnish Academy of Fine Arts, Department of Time and Space.  
 
-Projects:  
-
+**Projects:**  
 
 2017  
 Recipient of the Chancellors International Research Scholarship (CIRS) to pursue a PhD at the University of Sussex.
