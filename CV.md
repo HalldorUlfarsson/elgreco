@@ -224,7 +224,7 @@ Icelandic pop-band múm commissions a halldorophone.
 2003  
 Performance with Hallvardur Asgeirsson and others at the Reykjavik Art Museum.  
 
-Hondo scandinavian tour (Halldorophone performances): Skaftfell Seyðisfirði, Iceland.  The Nordic House in Torshavn, Faroe Islands.  Isotop Atelier and Showroom in Bergen, Norway.  
+Hondo scandinavian tour (Halldorophone performances): Skaftfell Seyðisfirði, Iceland. The Nordic House in Torshavn, Faroe Islands. Isotop Atelier and Showroom in Bergen, Norway.  
 
 "What goes around..." Audiovisual composition performed at Ung Nordisk Musik (new music festival) in Oslo. Collaboration with Tim Page.
 
