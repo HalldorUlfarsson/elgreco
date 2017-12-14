@@ -34,7 +34,7 @@ Composing for halldorophone workshop at ICLI 2016 conference, ACCA center Univer
 2015  
 Residency at Loviisa Artist Studio, Finland.
 
-Masterclass at the Music Technology program at the University of Sussex. Halldorophone presented at the CHASE phd consortium.
+Masterclass at the Music Technology program at the University of Sussex. Halldorophone presented at the CHASE PhD consortium.
 
 Made part time adjunct of product design at the Deptartment of Architecture and Design at the IAA.
 
