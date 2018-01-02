@@ -10,4 +10,7 @@ Halldór´s artistic practice is focused on his project the [halldorophone](http
 Halldór vas previously employed at the Design Department at the Iceland Academy of Art Design Department as adjunct of Product Design and workshop technician for the department. He received his basic training at the Academy of Fine Arts in Helsinki, Department of Time and Space. He holds an MA from the same department and a further MA from the University of Art and Design Helsinki (then TAIK, currently Aalto) in Applied Art and Design.
 
 Halldór speaks Finnish (of which he is exceedingly proud) and lives in Athens, Greece when he is not in the U.K.  
+<span>
+<br>
+</span>
 ![hit me up!](/img/honk.png){:height="50%" width="50%"}
