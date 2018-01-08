@@ -17,6 +17,9 @@ author:
   name:
   url:
 
+    # Google Analytics /infó hérna:  https://desiredpersona.com/google-analytics-jekyll/
+google_analytics: UA-112155357-1
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
