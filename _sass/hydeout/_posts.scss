@@ -21,6 +21,11 @@ article + *, .post-body ~ section {
   }
 }
 
+//Bætti þessu við til að reyna að jafna allt
+.page__content {
+  text-align: justify;
+}
+
 // Blog post or page title
 .page-title,
 .post-title,
