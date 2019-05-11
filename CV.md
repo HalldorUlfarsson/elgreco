@@ -4,7 +4,7 @@ title: CV
 sidebar_link: true
 ---
 
-  
+
 **Education:**
 
 17 -  
