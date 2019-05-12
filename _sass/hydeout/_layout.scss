@@ -145,7 +145,7 @@ body {
 @media (min-width: $large-breakpoint) {
   body {
     flex-direction: row;
-    height: 100vh;
+    height: 200vh;
     overflow: auto;
     > * { max-height: 200vh; overflow: auto; }
   }
