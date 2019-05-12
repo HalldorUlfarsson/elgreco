@@ -147,8 +147,18 @@ body {
     flex-direction: row;
     height: 100vh;
     overflow: auto;
-    > * { max-height: 100vh; overflow: auto; }
+    > * { max-height: 200vh; overflow: auto; }
   }
+
+// Er ad reyna ad hafa staerri preview i main, thetta er gamla her ad nedan
+//  @media (min-width: $large-breakpoint) {
+//    body {
+//      flex-direction: row;
+//      height: 100vh;
+//      overflow: auto;
+//      > * { max-height: 100vh; overflow: auto; }
+//    }
+
 
   /* Undo mobile CSS */
 
