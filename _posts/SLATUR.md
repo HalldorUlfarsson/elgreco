@@ -1,0 +1,16 @@
+---
+layout: post
+title: "S.L.Á.T.U.R."
+categories:
+  - Spetson
+tags:
+  - Spetson
+---
+
+![Full house](/img/slatur1.JPG)
+
+Studio Spetson had it’s first live in residents in the summer of 2019. My friends and sometime collaborators the [S.L.Á.T.U.R](www.slatur.is) composer collective was participating in the 26th Tectonics festival (held for the second time in Athens) and used Spetson as a staging ground for the festival.
+
+Áki Ásgeirsson premiered XXX° a new composition, featuring a new instrument which required fabrication and bespoke electronics which he built at the studio. He refers to the instrument as a light-synth, it uses laser to transmit signal to the players and sound-generating sub stations.
+
+It was satisfying to have houseguests and see the place put to good use.
