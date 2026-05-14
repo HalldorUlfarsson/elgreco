@@ -1,0 +1,131 @@
+/* Tweak modes — coordinated palette / type / density variants.
+   Applied via [data-mood], [data-voice] on <html> and the --density var. */
+
+:root {
+  --density: 1;
+}
+
+/* ── Mood: complete palette swaps. ─────────────────────────────────────── */
+
+html[data-mood="archive"] {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --text: #000000;
+  --muted: #52606d;
+  --accent: #000000;
+  --accent-contrast: #212222;
+  --border: #d9e2ec;
+  --link: #0687f5;
+}
+
+html[data-mood="studio"] {
+  --bg: #f3ead4;
+  --surface: #ede0bf;
+  --text: #2a1c0c;
+  --muted: #6b563a;
+  --accent: #8a4513;
+  --accent-contrast: #fff8e8;
+  --border: #d6c9a3;
+  --link: #8a4513;
+}
+
+html[data-mood="feedback"] {
+  --bg: #0d0d0f;
+  --surface: #15151a;
+  --text: #e8e3da;
+  --muted: #8a8478;
+  --accent: #c9b88a;
+  --accent-contrast: #0d0d0f;
+  --border: #2a2a30;
+  --link: #c9b88a;
+}
+
+/* Mood-driven re-skinning of UI we don't control via vars alone. */
+html[data-mood="feedback"] body,
+html[data-mood="studio"] body { background: var(--bg); }
+html[data-mood] .wiki-panel { background: var(--surface); color: var(--text); }
+html[data-mood] .wiki-article a,
+html[data-mood] .instrument-description a { color: var(--link); }
+html[data-mood] .side-nav a { color: color-mix(in srgb, var(--text) 35%, transparent); }
+html[data-mood] .side-nav a:hover { color: var(--text); }
+html[data-mood] .nav-group summary { color: color-mix(in srgb, var(--text) 18%, transparent); }
+html[data-mood="feedback"] .video-poster { background-color: #000; }
+html[data-mood="feedback"] .insta-post { background: #1a1a20; }
+html[data-mood="feedback"] .video-poster::before { background: rgba(0,0,0,0.55); }
+
+/* The Bandcamp embed honors bgcol/linkcol query params. We can't change those
+   live (cross-origin iframe), but we can wrap it so it doesn't look stranded
+   on a dark background. */
+html[data-mood="feedback"] .music-player,
+html[data-mood="studio"] .music-player {
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 1px;
+}
+
+/* The bandcamp wrapper above adds a white bg; logo is PNG art that already reads on white. */
+
+/* ── Voice: typeface stack swaps. ──────────────────────────────────────── */
+
+html[data-voice="document"] body {
+  font-family: "Source Sans 3", "Inter", "Segoe UI", sans-serif;
+}
+
+html[data-voice="specimen"] body {
+  font-family: "Cormorant Garamond", "EB Garamond", Georgia, "Times New Roman", serif;
+}
+
+html[data-voice="specimen"] .wiki-article,
+html[data-voice="specimen"] .instrument-description {
+  font-size: calc(1.05em * var(--density));
+  line-height: calc(1.6 * var(--density));
+}
+
+html[data-voice="manuscript"] body {
+  font-family: "IBM Plex Mono", "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+
+html[data-voice="manuscript"] .wiki-article,
+html[data-voice="manuscript"] .instrument-description {
+  font-size: calc(0.85em * var(--density));
+  line-height: 1.55;
+}
+
+/* Manuscript: align with the typewritten / lab-notes feel — left-aligned text,
+   underlined links, not justified. */
+html[data-voice="manuscript"] .instrument-description { text-align: left; }
+html[data-voice="manuscript"] .wiki-article a { text-decoration: underline; }
+
+/* Specimen: tighter caps, drop-cap-ish first paragraph treatment. */
+html[data-voice="specimen"] .wiki-title,
+html[data-voice="specimen"] .wiki-article h1,
+html[data-voice="specimen"] .wiki-article h2 {
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+/* ── Density: coordinated breathing room. ──────────────────────────────── */
+
+html { font-size: calc(16px * var(--density)); }
+
+html .left-column {
+  gap: calc(1rem * var(--density));
+  padding: calc(1rem * var(--density)) calc(0.75rem * var(--density));
+}
+
+html .instrument-description p {
+  margin: calc(0.75rem * var(--density)) 0;
+}
+
+html .instrument-description {
+  line-height: calc(1.5 * var(--density));
+}
+
+html .wiki-article { line-height: calc(1.55 * var(--density)); }
+
+html .video-container,
+html .instagram-gallery,
+html .music-player {
+  margin-top: calc(1rem * var(--density));
+  margin-bottom: calc(1rem * var(--density));
+}
