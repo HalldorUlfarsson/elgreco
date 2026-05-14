@@ -622,7 +622,7 @@
   });
 
   // On load, check the URL path and open the right page (production only)
-  const initialPath = window.location.pathname.replace(/\/$/, "") || "/";
+  const initialPath = window.location.pathname.replace(/\/$/, "").replace(/\.html$/, "") || "/";
   if (!isLocalDev && urlPathMap[initialPath]) {
     loadResearchPage(urlPathMap[initialPath], "", false);
   } else {
