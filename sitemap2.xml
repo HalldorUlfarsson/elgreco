@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Primary pages -->
+  <url>
+    <loc>https://halldorophone.info/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/about</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/further-reading</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/list-of-halldorophones</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/halldorobass</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/order</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.6</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- SEO landing pages -->
+  <url>
+    <loc>https://halldorophone.info/hildur</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/sunn-life-metal</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/arrival-soundtrack</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/battlefield-2042</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/martina-bertoni</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://halldorophone.info/the-knife-tomorrow-in-a-year</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+</urlset>
