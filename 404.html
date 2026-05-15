@@ -1,13 +1,67 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page not found — Halldorophone</title>
+    <meta name="robots" content="noindex" />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Source+Sans+3:wght@400;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    />
+    <style>
+      .not-found-wrap {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        min-height: 60vh;
+        padding: 3rem 2rem;
+        gap: 1.2rem;
+      }
+      .not-found-code {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 0.85rem;
+        color: rgba(0,0,0,0.35);
+        letter-spacing: 0.04em;
+      }
+      .not-found-heading {
+        font-family: 'Cormorant Garamond', Georgia, serif;
+        font-size: 2rem;
+        font-weight: 400;
+        margin: 0;
+        line-height: 1.2;
+      }
+      .not-found-body {
+        font-family: 'Source Sans 3', sans-serif;
+        font-size: 1rem;
+        color: rgba(0,0,0,0.6);
+        max-width: 360px;
+        line-height: 1.6;
+        margin: 0;
+      }
+      .not-found-home {
+        font-family: 'Source Sans 3', sans-serif;
+        font-size: 0.95rem;
+        color: inherit;
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+    </style>
     <script>
-      // GitHub Pages SPA redirect
-      // Preserves the path and redirects to index.html
-      var path = window.location.pathname;
-      sessionStorage.setItem('redirect', path);
-      window.location.replace('/');
+      // Store the 404'd path so the SPA can potentially handle it
+      sessionStorage.setItem('redirect', window.location.pathname);
     </script>
   </head>
+  <body>
+    <div class="not-found-wrap">
+      <span class="not-found-code">404</span>
+      <h1 class="not-found-heading">Page not found</h1>
+      <p class="not-found-body">The requested page does not exist. The halldorophone is still here, though.</p>
+      <a class="not-found-home" href="/">Return to halldorophone.info</a>
+    </div>
+  </body>
 </html>

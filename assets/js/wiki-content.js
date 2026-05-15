@@ -417,12 +417,105 @@
     "/halldorobass":           { title: "Halldorobass — Halldorophone", description: "The halldorobass: a modified double bass built to feedback in the same way as halldorophones." },
     "/order":                  { title: "Order of the Halldorophone", description: "Commission a halldorophone from Halldór Úlfarsson." },
     "/about":                  { title: "About Halldór Úlfarsson — Halldorophone", description: "Halldór Úlfarsson is an artist, designer and instrument builder whose work centres on the halldorophone." },
-    "/hildur":                 { title: "The Halldorophone in Joker and Chernobyl — Hildur Guðnadóttir", description: "Hildur Guðnadóttir used the halldorophone to compose the Oscar, Grammy, and Emmy-winning scores for Joker and Chernobyl. The instrument was built by Halldór Úlfarsson." },
-    "/sunn-life-metal":         { title: "The Halldorophone on Sunn O)))'s Life Metal", description: "Hildur Guðnadóttir played the halldorophone on the closing track of Sunn O)))'s 2019 album Life Metal, recorded by Steve Albini at Electrical Audio." },
-    "/arrival-soundtrack":       { title: "The Halldorophone in the Arrival Soundtrack — Jóhann Jóhannsson", description: "Hildur Guðnadóttir is credited on cello, halldorophone and voice on Jóhann Jóhannsson's score for Denis Villeneuve's 2016 film Arrival." },
-    "/battlefield-2042":         { title: "The Halldorophone on Battlefield 2042", description: "The Battlefield 2042 soundtrack was composed by Hildur Guðnadóttir and Sam Slater using drone textures and on-location recording. The halldorophone is central to their sound." },
-    "/martina-bertoni":          { title: "Martina Bertoni — Electroacoustic Works for Halldorophone", description: "Martina Bertoni's 2025 album on Karlrecords, recorded at EMS Stockholm using a halldorophone built by Halldór Úlfarsson." },
-    "/the-knife-tomorrow-in-a-year": { title: "The Halldorophone on The Knife's Tomorrow, in a Year", description: "Hildur Guðnadóttir played halldorophone on The Knife's 2010 Darwin opera album Tomorrow, in a Year, in collaboration with Mt. Sims and Planningtorock." },
+    "/hildur":                 { title: "The Halldorophone in Joker and Chernobyl — Hildur Guðnadóttir", description: "Hildur Guðnadóttir used the halldorophone to compose the Oscar, BAFTA, Golden Globe, Grammy, and Emmy-winning scores for Joker and Chernobyl — making her the first solo female composer to win all three major awards for the same work. The instrument was built by Halldór Úlfarsson." },
+    "/sunn-life-metal":         { title: "The Halldorophone on Sunn O)))'s Life Metal", description: "Hildur Guðnadóttir played the halldorophone on 'Novæ', the 25-minute closing track of Sunn O)))'s 2019 album Life Metal, recorded entirely on analog tape by Steve Albini at Electrical Audio, Chicago." },
+    "/arrival-soundtrack":       { title: "The Halldorophone in the Arrival Soundtrack — Jóhann Jóhannsson", description: "Hildur Guðnadóttir is credited on cello, halldorophone (listed as 'dórophone') and voice on Jóhann Jóhannsson's Golden Globe-nominated score for Denis Villeneuve's 2016 film Arrival, released on Deutsche Grammophon." },
+    "/battlefield-2042":         { title: "The Halldorophone on Battlefield 2042", description: "The Battlefield 2042 soundtrack was composed by Hildur Guðnadóttir and Sam Slater using on-location recording and algorithmic processing — the same approach and instrumentation that defined their scores for Joker and Chernobyl." },
+    "/martina-bertoni":          { title: "Martina Bertoni — Electroacoustic Works for Halldorophone", description: "Martina Bertoni's 2025 album on Karlrecords, composed and recorded at EMS Stockholm using a halldorophone built by Halldór Úlfarsson. A Dolby Atmos edition followed in 2026. The work uses the instrument as an algorithmic system for exploring tuning and harmonic frequency relationships." },
+    "/the-knife-tomorrow-in-a-year": { title: "The Halldorophone on The Knife's Tomorrow, in a Year", description: "Hildur Guðnadóttir played halldorophone on The Knife's 2010 album Tomorrow, in a Year — a studio opera based on Charles Darwin's On the Origin of Species, created in collaboration with Mt. Sims and Planningtorock for Hotel Pro Forma." },
+  };
+
+  // Schema.org structured data per route
+  const schemaData = {
+    "/hildur": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicComposition",
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "datePublished": "2019",
+        "composer": { "@type": "Person", "name": "Hildur Guðnadóttir" },
+        "award": "Academy Award for Best Original Score (2020), BAFTA Award for Best Original Music, Golden Globe Award for Best Original Score",
+        "description": "Score composed and performed primarily on the halldorophone, built by Halldór Úlfarsson. Themes were written before filming began; director Todd Phillips played recordings on set.",
+        "instrument": { "@type": "Product", "name": "Halldorophone", "url": "https://halldorophone.info/" }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicComposition",
+        "name": "Chernobyl (Original Series Soundtrack)",
+        "datePublished": "2019",
+        "composer": { "@type": "Person", "name": "Hildur Guðnadóttir" },
+        "award": "Primetime Emmy Award for Outstanding Music Composition, Grammy Award for Best Score Soundtrack for Visual Media, BAFTA TV Award",
+        "instrument": { "@type": "Product", "name": "Halldorophone", "url": "https://halldorophone.info/" }
+      }
+    ],
+    "/sunn-life-metal": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicAlbum",
+        "name": "Life Metal",
+        "datePublished": "2019-04-26",
+        "byArtist": { "@type": "MusicGroup", "name": "Sunn O)))" },
+        "recordLabel": { "@type": "Organization", "name": "Southern Lord Records" },
+        "description": "Eighth studio album by Sunn O))), recorded on analog tape by Steve Albini at Electrical Audio. Features Hildur Guðnadóttir on halldorophone on closing track Novæ.",
+        "track": [
+          { "@type": "MusicRecording", "name": "Between Sleipnir's Breaths", "byArtist": { "@type": "Person", "name": "Hildur Guðnadóttir" } },
+          { "@type": "MusicRecording", "name": "Novæ", "byArtist": { "@type": "Person", "name": "Hildur Guðnadóttir" } }
+        ]
+      }
+    ],
+    "/arrival-soundtrack": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicAlbum",
+        "name": "Arrival (Original Motion Picture Soundtrack)",
+        "datePublished": "2016-11-11",
+        "byArtist": { "@type": "Person", "name": "Jóhann Jóhannsson" },
+        "recordLabel": { "@type": "Organization", "name": "Deutsche Grammophon" },
+        "description": "Score for Denis Villeneuve's 2016 film Arrival. Hildur Guðnadóttir is credited on cello, halldorophone (listed as dórophone), and voice."
+      }
+    ],
+    "/battlefield-2042": [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoGame",
+        "name": "Battlefield 2042",
+        "datePublished": "2021-11-19",
+        "publisher": { "@type": "Organization", "name": "EA Games" },
+        "musicBy": [
+          { "@type": "Person", "name": "Hildur Guðnadóttir" },
+          { "@type": "Person", "name": "Sam Slater" }
+        ],
+        "description": "First-person shooter developed by DICE. Soundtrack by Hildur Guðnadóttir and Sam Slater, built from drone textures and on-location recording consistent with their Joker and Chernobyl work."
+      }
+    ],
+    "/martina-bertoni": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicAlbum",
+        "name": "Electroacoustic Works for Halldorophone",
+        "datePublished": "2025-02-21",
+        "byArtist": { "@type": "Person", "name": "Martina Bertoni" },
+        "recordLabel": { "@type": "Organization", "name": "Karlrecords" },
+        "description": "Four pieces composed and recorded at EMS Stockholm using a halldorophone built by Halldór Úlfarsson. A Dolby Atmos edition was released in February 2026.",
+        "track": [
+          { "@type": "MusicRecording", "name": "Nr.1 Omen in G" },
+          { "@type": "MusicRecording", "name": "Nr.2 Nominal D" },
+          { "@type": "MusicRecording", "name": "Nr.3 Fades in C" },
+          { "@type": "MusicRecording", "name": "Nr.4 Organon in D" }
+        ]
+      }
+    ],
+    "/the-knife-tomorrow-in-a-year": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicAlbum",
+        "name": "Tomorrow, in a Year",
+        "datePublished": "2010-02-01",
+        "byArtist": { "@type": "MusicGroup", "name": "The Knife" },
+        "recordLabel": { "@type": "Organization", "name": "Rabid Records" },
+        "description": "Studio opera by The Knife with Mt. Sims and Planningtorock, based on Charles Darwin's On the Origin of Species. Hildur Guðnadóttir plays halldorophone on two tracks and cello on three."
+      }
+    ]
   };
 
   function updateSeo(urlPath) {
@@ -449,6 +542,19 @@
       let el = document.querySelector(`meta[name='${name}']`);
       if (el) el.setAttribute("content", val);
     });
+
+    // Inject or update schema.org structured data
+    document.querySelectorAll('script[data-schema-dynamic]').forEach(el => el.remove());
+    const schemas = schemaData[urlPath];
+    if (schemas) {
+      schemas.forEach(schema => {
+        const s = document.createElement('script');
+        s.type = 'application/ld+json';
+        s.setAttribute('data-schema-dynamic', '');
+        s.textContent = JSON.stringify(schema);
+        document.head.appendChild(s);
+      });
+    }
   }
 
   // Map clean URL paths to markdown file paths
