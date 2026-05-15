@@ -520,11 +520,24 @@ code {
 
   /* Wiki tables: scrollable on mobile */
   .wiki-article table {
-    width: 100%;
     display: block;
+    width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    font-size: 0.8rem;
+    font-size: 0.78rem;
+    line-height: 1.3;
+  }
+
+  .wiki-article td,
+  .wiki-article th {
+    padding: 0.3rem 0.4rem;
+    vertical-align: top;
+  }
+
+  .wiki-article td p,
+  .wiki-article th p {
+    margin: 0;
+    padding: 0;
   }
 
   /* Readable text on narrow columns */
