@@ -518,7 +518,14 @@ code {
     margin: 0 0 1rem;
   }
 
-  /* Bandcamp iframe already capped via max-width: 100% on the element itself */
+  /* Wiki tables: scrollable on mobile */
+  .wiki-article table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-size: 0.8rem;
+  }
 
   /* Readable text on narrow columns */
   .instrument-description {
