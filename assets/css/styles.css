@@ -517,10 +517,16 @@ code {
     font-size: 0.85rem;
   }
 
-  /* Logo: slightly larger on mobile for balance */
+  /* Logo: constrain on mobile */
   .logo-wrap {
-    width: 60%;
-    max-width: 240px;
+    width: 40%;
+    max-width: 160px;
+  }
+
+  /* Flame animation: constrain on mobile */
+  .flame-link {
+    width: 8ch;
+    max-width: 80px;
   }
 }
 
