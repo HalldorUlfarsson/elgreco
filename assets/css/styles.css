@@ -183,6 +183,7 @@ code {
 
 .music-player iframe {
   width: 400px;
+  max-width: 100%;
   height: 42px;
   border: 0;
 }
@@ -486,6 +487,7 @@ code {
     overflow-y: visible;
     border-right: none;
     border-bottom: 1px solid var(--border);
+    padding: 1rem 1rem;
   }
 
   .right-column {
@@ -500,6 +502,25 @@ code {
   .wiki-article .infobox {
     float: none;
     margin: 0 0 1rem;
+  }
+
+  /* Bandcamp iframe already capped via max-width: 100% on the element itself */
+
+  /* Readable text on narrow columns */
+  .instrument-description {
+    text-align: left;
+  }
+
+  /* Larger tap targets for nav links */
+  .nav-label {
+    padding: 0.5rem 0;
+    font-size: 0.85rem;
+  }
+
+  /* Logo: slightly larger on mobile for balance */
+  .logo-wrap {
+    width: 60%;
+    max-width: 240px;
   }
 }
 
